@@ -1,5 +1,7 @@
 #Dungeon Architect Deathmatch Demo
 
+[![Dungeon Architect Deathmatch Demo](http://img.youtube.com/vi/VZIIEQoMp7o/0.jpg)](http://www.youtube.com/watch?v=VZIIEQoMp7o)
+
 ## Installation
 
 Download and extract: [4.12](#) | 4.13 (coming soon)
@@ -14,7 +16,6 @@ Download and extract: [4.12](#) | 4.13 (coming soon)
  ![Delete binary directory](http://i.imgur.com/lMcoA67.png)
  * Start the game project. Click yes when prompted to rebuild
  * Open the map `Maps/HellForge` and hit play
- 
  
  
  

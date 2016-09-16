@@ -1,6 +1,6 @@
 #Dungeon Architect Deathmatch Demo
 
-[![Dungeon Architect Deathmatch Demo](http://img.youtube.com/vi/VZIIEQoMp7o/0.jpg)](http://www.youtube.com/watch?v=VZIIEQoMp7o)
+[![Dungeon Architect Deathmatch Demo](http://i.imgur.com/edzJWxn.jpg)](http://www.youtube.com/watch?v=VZIIEQoMp7o)
 
 ## Installation
 

@@ -10,12 +10,7 @@ Download and extract: [4.12](https://codeload.github.com/coderespawn/dungeon-arc
  * Install Dungeon Architect plugin to the project
  * Install Infinity Blade Fireland pack
  * Install Infinity Blade Effects pack
- * Go to the game directory of the project and overwrite the contents of the archive you downloaded. Make sure it is an overwrite
+ * Go to the game directory of the project and copy the contents of the archive to the game directory's content folder
  ![Copy contents to game directory](http://i.imgur.com/CbhrDst.png)
- * Delete the Binary directory on your game project so it rebuilds the new game code
- ![Delete binary directory](http://i.imgur.com/lMcoA67.png)
- * Start the game project. Click yes when prompted to rebuild
  * Open the map `Maps/HellForge` and hit play
- 
- 
  

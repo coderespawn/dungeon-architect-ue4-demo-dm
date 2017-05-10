@@ -11,6 +11,6 @@ Download and extract: [4.15](https://codeload.github.com/coderespawn/dungeon-arc
  * Install Infinity Blade Fireland pack
  * Install Infinity Blade Effects pack
  * Go to the game directory of the project and copy the contents of the archive to the game directory's content folder
- ![Copy contents to game directory](http://i.imgur.com/CbhrDst.png)
+ ![Copy contents to game directory](http://i.imgur.com/PkRiasF.png)
  * Open the map `Maps/HellForge` and hit play
  

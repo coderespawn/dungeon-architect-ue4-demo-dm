@@ -4,7 +4,7 @@
 
 ## Installation
 
-Download and extract: [4.15](https://codeload.github.com/coderespawn/dungeon-architect-ue4-demo-dm/zip/4.15) | [4.12](https://codeload.github.com/coderespawn/dungeon-architect-ue4-demo-dm/zip/4.12)
+Download and extract: [LINK](https://codeload.github.com/coderespawn/dungeon-architect-ue4-demo-dm/zip/4.15)
 
  * Install Epic ShooterGame project from Launcher's Learn tab
  * Install Dungeon Architect plugin to the project
